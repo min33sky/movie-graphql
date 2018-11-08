@@ -5,6 +5,7 @@
   "license": "MIT",
   "repository": "https://github.com/min33sky/movie-graphql",
   "dependencies": {
+    "axios": "^0.18.0",
     "graphql-yoga": "^1.16.7"
   },
   "scripts": {
