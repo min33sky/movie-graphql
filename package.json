@@ -6,10 +6,11 @@
   "repository": "https://github.com/min33sky/movie-graphql",
   "dependencies": {
     "axios": "^0.18.0",
+    "babel": "^6.23.0",
     "graphql-yoga": "^1.16.7"
   },
   "scripts": {
-    "start": "babel-node index.js",
+    "start": "./node_modules/.bin/babel-node index.js",
     "start:dev": "nodemon --exec babel-node index.js"
   },
   "devDependencies": {
