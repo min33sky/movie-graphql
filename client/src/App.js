@@ -9,7 +9,7 @@ class App extends Component {
   render() {
     return (
       <ApolloProvider client={client}>
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <>
             <GlobalStyle />
             <main>
