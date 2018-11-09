@@ -5,6 +5,7 @@
 ## 구성
 
 - Frontend
-
+  - react
+  - react-apollo
 - Backend
   - graphQL
