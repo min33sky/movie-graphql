@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { ApolloProvider } from 'react-apollo';
-import { HashRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 import client from './apolloClient';
 import { Home, Detail } from './components';
 import { GlobalStyle } from './globalStyles';
