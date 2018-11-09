@@ -1,11 +1,11 @@
 {
-  "main.js": "/movie-graphql/static/js/main.e7b5237d.chunk.js",
-  "main.js.map": "/movie-graphql/static/js/main.e7b5237d.chunk.js.map",
-  "static/js/1.b4acefde.chunk.js": "/movie-graphql/static/js/1.b4acefde.chunk.js",
-  "static/js/1.b4acefde.chunk.js.map": "/movie-graphql/static/js/1.b4acefde.chunk.js.map",
+  "main.js": "/movie-graphql/static/js/main.bf4b2f37.chunk.js",
+  "main.js.map": "/movie-graphql/static/js/main.bf4b2f37.chunk.js.map",
+  "static/js/1.e193236d.chunk.js": "/movie-graphql/static/js/1.e193236d.chunk.js",
+  "static/js/1.e193236d.chunk.js.map": "/movie-graphql/static/js/1.e193236d.chunk.js.map",
   "runtime~main.js": "/movie-graphql/static/js/runtime~main.2b643fd8.js",
   "runtime~main.js.map": "/movie-graphql/static/js/runtime~main.2b643fd8.js.map",
   "index.html": "/movie-graphql/index.html",
-  "precache-manifest.4e2b6153e8bccfe729eb66bb002031cd.js": "/movie-graphql/precache-manifest.4e2b6153e8bccfe729eb66bb002031cd.js",
+  "precache-manifest.ffb02615b12e69bbe4077d46765a5851.js": "/movie-graphql/precache-manifest.ffb02615b12e69bbe4077d46765a5851.js",
   "service-worker.js": "/movie-graphql/service-worker.js"
 }
